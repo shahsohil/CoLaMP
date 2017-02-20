@@ -1,6 +1,6 @@
 # CoLaMP
 
-## Introduciton
+## Introduction
 
 This is a MATLAB implementation based of the CoLaMP algorithms presented in the following paper ([download](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Shah_Estimating_Sparse_Signals_CVPR_2016_paper.pdf)).
 Estimating Sparse Signals with Smooth Support via Convex Programming and Block Sparsity
